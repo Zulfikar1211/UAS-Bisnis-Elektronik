@@ -1,12 +1,19 @@
 # UAS-Bisnis-Elektronik
+
 UJIAN AKHIR SEMESTER GENAP 2020/2021
+
 Nama		: Zulfikar Ali Zaki
+
 NIM		: 311910623
+
 Kelas		: TI.19.B2
+
 Mata Kuliah	: Bisnis Elektronik
+
 Dosen		: Ermanto,S.Pd., M.Kom
 
 Sistem Informasi Laundry ZAZ
+
 1.Membuat Database
 	
 ![image](https://user-images.githubusercontent.com/81583805/125802971-3432016d-e82a-4833-b84a-c60f4f14ae19.png)
@@ -35,7 +42,7 @@ Sistem Informasi Laundry ZAZ
 
 •Data Pelanggan
 
-![image](https://user-images.githubusercontent.com/81583805/125803248-bb5516d3-9ba9-46bc-84ba-10fc4adc705a.png)
+![image](https://user-images.githubusercontent.com/81583805/125804573-d33529d7-be07-40f0-8b70-d8b6c3a1a24e.png)
 
 •Menambahkan Pelanggan Baru
 
